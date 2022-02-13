@@ -1,0 +1,106 @@
+.places {
+    width: 984px;
+    
+}
+
+.place {
+    width: 984px;
+    height: 660px;
+    position: relative;
+    padding-bottom: 80px;
+}
+
+.place__title {
+    position: absolute;
+    width: 460px;
+    top: 0;
+    left: 0;
+    margin: 0;
+
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    color: #FFFFFF;
+}
+
+.place__image {
+    position: absolute;
+    width: 460px;
+    height: 460px;
+    top: 200px;
+    
+}
+
+.place__website {
+    position: absolute;
+    width: 456px;
+    height: 46px;
+    top: 106px;
+    right: 28px;
+    
+}
+
+.place__url-heading {
+    width: 456px;
+    height: 12px;
+    margin: 0 0 12px;
+
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    /* identical to box height, or 100% */
+    
+    letter-spacing: 2px;
+    
+    color: #AAAAAA;
+}
+
+.place__link {
+    width: 456px;
+    height: 22px;
+    margin: 0;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height, or 122% */
+    
+    text-decoration-line: underline;
+    
+    color: #FFFFFF;
+}
+
+.place__paragraph {
+    position: absolute;
+    width: 484px;
+    height: 145px;
+    top: 200px;
+    left: 500px;
+    margin: 0 0 26px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+    /* or 29px */
+    
+    
+    color: #FFFFFF;
+}
+
+.place__paragraph:last-child {
+    position: absolute;
+    top: 371px;
+    right: 0;
+    margin: 0;
+}
