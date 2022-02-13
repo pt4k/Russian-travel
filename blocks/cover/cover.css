@@ -1,0 +1,32 @@
+.cover {
+    width: 1184px;
+    height: 740px;
+    background: url(../../images/cover-trains.jpeg) no-repeat center / cover;
+}
+
+.cover__title {
+    width: 560px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.cover__subtitle {
+    width: 360px;
+    
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* or 122% */
+    text-align: center;
+    color: #FFFFFF;
+}
