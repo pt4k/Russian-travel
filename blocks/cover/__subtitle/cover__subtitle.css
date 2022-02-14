@@ -3,13 +3,9 @@
     top: 429px;
     left: 412px;
     width: 360px;
-    
-    font-family: Inter;
-    font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     font-size: 18px;
-    line-height: 22px;
-    /* or 122% */
+    line-height: 1.22;
     text-align: center;
     color: #FFFFFF;
 }
