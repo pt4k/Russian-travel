@@ -1,9 +1,10 @@
 .place__title {
-    width: 460px;
+    width: 100%;
     margin: 0;
     align-self: end;
     font-weight: 900;
     font-size: 72px;
     line-height: 1.055;
     color: #FFFFFF;
+    align-self: start;
 }
