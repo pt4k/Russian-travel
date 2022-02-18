@@ -6,20 +6,20 @@
     justify-content: space-between;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1279px) {
     .footer {
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
     .footer {
         max-width: 720px;
         padding: 88px 24px 24px;
     }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 767px) {
     .footer {
         display: flex;
         flex-direction: column;

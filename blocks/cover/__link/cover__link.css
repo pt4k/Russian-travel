@@ -29,19 +29,19 @@
     opacity: 0.8;
   }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1279px) {
     .cover__link {
         padding: 195px 232;
     }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
     .cover__link {
         padding: 115px 104px;
     }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 767px) {
     .cover__link {
         padding: 33px 16px;
     }
