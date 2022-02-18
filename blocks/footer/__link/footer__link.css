@@ -1,0 +1,16 @@
+.footer__link {
+    text-decoration: none;
+    margin-right: 18px;
+    color: #FFFFFF;
+}
+
+.footer__link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 540px) {
+    .footer__link {
+        padding-bottom: 32px;
+        margin-right: 0;
+    }
+}
