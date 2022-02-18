@@ -1,5 +1,0 @@
-.place__image {
-    width: calc(100% - 524px);
-    grid-column: 1/3;
-    grid-row: 2/3;
-}
