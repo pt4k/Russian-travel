@@ -11,7 +11,7 @@
     overflow: hidden;
     text-decoration: none;
     color: #FFFFFF;
-    background: url(../../../images/cover-trains.jpeg) no-repeat center / cover;;
+    background: url(../../../images/cover-trains.jpeg) no-repeat center / cover;
 }
 
 .cover__overlay:before {
