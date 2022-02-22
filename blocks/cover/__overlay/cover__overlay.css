@@ -1,5 +1,6 @@
 .cover__overlay {
     max-width: 1184px;
+    max-height: 480px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -12,6 +13,7 @@
     text-decoration: none;
     color: #FFFFFF;
     background: url(../../../images/cover-trains.jpeg) no-repeat center / cover;
+    transition: opacity .3s ease;
 }
 
 .cover__overlay:before {
@@ -29,7 +31,6 @@
 
   .cover__overlay:hover:before {
     opacity: 0.8;
-    transition: opacity .3s ease;
   }
 
 @media screen and (max-width: 1279px) {
